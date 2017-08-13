@@ -1,0 +1,7 @@
+hello
+The details of the studentAa1
+The name of the student is:we
+The register no of the student is"
+The details of the studentAa2
+The name of the student is:ty
+The register no of the student isC
