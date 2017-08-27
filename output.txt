@@ -1,0 +1,19 @@
+public class B
+{   int i = test();
+	int test()
+	{
+	System.out.println(i);
+	System.out.println("from test");
+	return 10;
+	}
+	
+	public static void main(String[] args) 
+	{
+		B obj=new B();
+		System.out.println("main1");
+		System.out.println(obj.i);
+		System.out.println("main2");
+		System.out.println(obj.test());
+			
+	}
+}
